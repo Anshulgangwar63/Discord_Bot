@@ -1,0 +1,14 @@
+{
+  "name": "chatter",
+  "version": "1.0.0",
+  "description": "chatting bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Anshul Gangwar",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
