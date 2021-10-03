@@ -1,3 +1,3 @@
 # Discord_Bot
 
-## Discord Bot for simple operations
+### Discord Bot for simple operations
